@@ -5,7 +5,7 @@ module.exports = {
     sessionSecret: 'session secret',
     SITE_ADMIN_MAIL: 'admin@email.com',
     SITE_ADMIN_PASSWORD: '123456',
-    ethTestnet: true,
+    ethTestnet: false,
     port: '9000',
     ethRPC: 'https://mainnet.infura.io/v3/e053e28ef40246c4812261502590ac2d',
     dbPath: 'mongodb://karachaindemo:testdemo123@ds147589.mlab.com:47589/dex-karachain',
